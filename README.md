@@ -6,7 +6,6 @@
 
 <p align="center">
   💻 Desenvolvedor Full Stack em evolução <br>
-  🚗 Focado em sistemas de veículos e aplicações modernas
 </p>
 
 ---
